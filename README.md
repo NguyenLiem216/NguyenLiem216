@@ -4,7 +4,7 @@
 - 🎮 I’m currently studying **game development with Unity**
 - 💻 I previously worked for **2 years with WinForms (C#) and PostgreSQL**
 - 🌱 I’m currently expanding my skills in **C#, Unity Engine, game mechanics, and 2D/3D graphics**
-- 📫 How to reach me: **(add your email or contact info here)**
+- 📫 How to reach me: **nguyenliem260899@gmail.com**
 
 ## 🛠️ Languages and Tools
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
