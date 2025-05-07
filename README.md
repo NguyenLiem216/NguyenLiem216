@@ -23,6 +23,7 @@
 - 🎮 [Awesome Unity Game](https://github.com/NguyenLiem216/awesome-unity-game): A 2D platformer built with Unity.
 
 ## 🌐 Connect with me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/li%C3%AAm-nguy%E1%BB%85n-970a932b2/))  
-[![Facebook]([https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://facebook.com/your-facebook](https://www.facebook.com/nguyen.liem.9480))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/li%C3%AAm-nguy%E1%BB%85n-970a932b2/))  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)]([https://facebook.com/your-facebook](https://www.facebook.com/nguyen.liem.9480))
+
 
