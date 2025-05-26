@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NguyenLiem216</h1>
+<h1 align="center">Hi 👋, I'm NguyenLiem</h1>
 <h3 align="center">A passionate game developer learning Unity, with experience in WinForms and PostgreSQL</h3>
 
 - 🎮 I’m currently studying **game development with Unity**
