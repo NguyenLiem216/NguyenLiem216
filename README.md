@@ -13,10 +13,10 @@
 ![WinForms](https://img.shields.io/badge/WinForms-007ACC?logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenLiem216&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenLiem216&theme=radical" />
 </p>
+
 
 
 ## 🚀 Projects
