@@ -15,8 +15,9 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenLiem216&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenLiem216&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
 </p>
+
 
 ## 🚀 Projects
 👉 **(Add your projects here if you'd like to showcase them! Example:)**
