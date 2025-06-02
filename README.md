@@ -26,7 +26,7 @@
 - ✈️ **[Plane Shooter Prototype](https://github.com/NguyenLiem216/PlaneShooter.git)**  
   Side-scrolling shooter game based on SaiGame's tutorial series. Developed player movement, shooting mechanics, and enemy spawn logic.
 
-- 🧠 **[Puzzle Match-3](https://github.com/NguyenLiem216/match3-puzzle)**  
+- 🧠 **[Puzzle Match-3](https://github.com/NguyenLiem216/Puzzle-Match_3.git)**  
   A custom match-3 game with animated tile-swapping and score system. Developed full core logic and UI elements.
 
 - 🏰 **[Tower Defense 3D](https://github.com/NguyenLiem216/tower-defense-3d)**  
