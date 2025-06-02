@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm NguyenLiem</h1>
-<h3 align="center">A passionate game developer learning Unity, with experience in WinForms and PostgreSQL</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Liem</h1>
+<h3 align="center">Aspiring Game Developer | Focused on Unity | Background in C# and PostgreSQL</h3>
 
-- 🎮 I’m currently studying **game development with Unity**
-- 💻 I previously worked for **2 years with WinForms (C#) and PostgreSQL**
-- 🌱 I’m currently expanding my skills in **C#, Unity Engine, game mechanics, and 2D/3D graphics**
-- 📫 How to reach me: **nguyenliem260899@gmail.com**
+- 🎮 I'm currently learning and building games using **Unity Engine**  
+- 💻 Previously worked for **2 years** developing software with **C# WinForms** and **PostgreSQL**  
+- 🌱 Expanding my skills in **game mechanics, UI/UX, 2D/3D graphics**, and **design patterns in Unity**  
+- 📫 Reach me at: **nguyenliem260899@gmail.com**
 
-## 🛠️ Languages and Tools
+---
+
+## 🛠️ Languages & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -17,14 +19,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NguyenLiem216&theme=radical" />
 </p>
 
-
+---
 
 ## 🚀 Projects
-👉 **(Add your projects here if you'd like to showcase them! Example:)**
-- 🎮 [Awesome Unity Game](https://github.com/NguyenLiem216/awesome-unity-game): A 2D platformer built with Unity.
+
+- ✈️ **[Plane Shooter Prototype](https://github.com/NguyenLiem216/plane-shooter)**  
+  Side-scrolling shooter game based on SaiGame's tutorial series. Developed player movement, shooting mechanics, and enemy spawn logic.
+
+- 🧠 **[Puzzle Match-3](https://github.com/NguyenLiem216/match3-puzzle)**  
+  A custom match-3 game with animated tile-swapping and score system. Developed full core logic and UI elements.
+
+- 🏰 **[Tower Defense 3D](https://github.com/NguyenLiem216/tower-defense-3d)**  
+  A 3D tower defense prototype with enemy AI, tower placement, and wave management using Unity NavMesh.
+
+---
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/li%C3%AAm-nguy%E1%BB%85n-970a932b2/)  
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/lop.niop/)
-
-
