@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-- ✈️ **[Plane Shooter Prototype](https://github.com/NguyenLiem216/plane-shooter)**  
+- ✈️ **[Plane Shooter Prototype](https://github.com/NguyenLiem216/PlaneShooter.git)**  
   Side-scrolling shooter game based on SaiGame's tutorial series. Developed player movement, shooting mechanics, and enemy spawn logic.
 
 - 🧠 **[Puzzle Match-3](https://github.com/NguyenLiem216/match3-puzzle)**  
