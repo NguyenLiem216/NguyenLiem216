@@ -28,6 +28,7 @@
 
 - 🧠 **[Puzzle Match-3](https://github.com/NguyenLiem216/Puzzle-Match_3.git)**  
   A custom match-3 game with animated tile-swapping and score system. Developed full core logic and UI elements.
+  YouTube : https://youtube.com/shorts/vDxra6E_lYE
 
 - 🏰 **[Tower Defense 3D](https://github.com/NguyenLiem216/CB3D.git)**  
   A 3D tower defense prototype with enemy AI, tower placement, and wave management using Unity NavMesh.
